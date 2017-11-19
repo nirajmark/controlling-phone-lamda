@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "alexa-sdk": "^1.0.19",
+    "mongoose": "^4.13.4",
     "node-gcm": "^0.14.9"
   }
 }
